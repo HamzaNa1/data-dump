@@ -9,7 +9,7 @@ Data dumps included are from:
 
 ** NO PRIVATE SERVER DATA WAS INCLUDED IN THIS DUMP **
 
-However, in the future I would like to allow servers to donate their old data.
+However, in the future I would like to allow servers to optionally donate their old data.
 
 Join our discord or get your own server here:
 
